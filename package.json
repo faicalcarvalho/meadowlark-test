@@ -7,7 +7,14 @@
     "express": "^4.12.3",
     "express-handlebars": "^2.0.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "grunt": "^0.4.5",
+    "grunt-cafe-mocha": "^0.1.13",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-exec": "^0.4.6",
+    "mocha": "^2.2.5"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
